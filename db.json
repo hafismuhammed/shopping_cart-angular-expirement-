@@ -1,0 +1,215 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rubic's cube",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07rbj9f5t-dytesa-4x4-square-shape-magic-cube-kids-educational-puzzle-toys-170065684-30l8c.jpg",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "Square toy",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+      "image": "https://4.imimg.com/data4/TM/OF/MY-12480829/reassemble-square-toy-500x500.jpg",
+      "price": 400
+    },
+    {
+      "id": 3,
+      "name": "Arglege 3D",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5191g4lv0OL._SY355_.jpg",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "name": "Doll",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+      "image": "https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/30/480x480/square-1501259737-classic-80s-toys-buy-today-rainbow-brite-doll.jpg?resize=480:*",
+      "price": 330
+    },
+    {
+      "id": 5,
+      "name": "Toddler Toy",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+      "image": "https://i.ytimg.com/vi/e00r9UIiHhE/maxresdefault.jpg",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "name": "Toy microscope",
+      "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/0mslb7RQiin_skyMKZJsgSGIJY8/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/03/807/n/24155406/45a74e00a56e1af2_netimgPRsi6g/i/Educational-Insights-GeoSafari-Jr-My-First-Microscope-STEM-Toy-For-Preschoolers.jpg",
+      "price": 450
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubic's cube",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07rbj9f5t-dytesa-4x4-square-shape-magic-cube-kids-educational-puzzle-toys-170065684-30l8c.jpg",
+        "price": 300
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Square toy",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://4.imimg.com/data4/TM/OF/MY-12480829/reassemble-square-toy-500x500.jpg",
+        "price": 400
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubic's cube",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07rbj9f5t-dytesa-4x4-square-shape-magic-cube-kids-educational-puzzle-toys-170065684-30l8c.jpg",
+        "price": 300
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Square toy",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://4.imimg.com/data4/TM/OF/MY-12480829/reassemble-square-toy-500x500.jpg",
+        "price": 400
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubic's cube",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07rbj9f5t-dytesa-4x4-square-shape-magic-cube-kids-educational-puzzle-toys-170065684-30l8c.jpg",
+        "price": 300
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Square toy",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://4.imimg.com/data4/TM/OF/MY-12480829/reassemble-square-toy-500x500.jpg",
+        "price": 400
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Square toy",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://4.imimg.com/data4/TM/OF/MY-12480829/reassemble-square-toy-500x500.jpg",
+        "price": 400
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubic's cube",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07rbj9f5t-dytesa-4x4-square-shape-magic-cube-kids-educational-puzzle-toys-170065684-30l8c.jpg",
+        "price": 300
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Arglege 3D",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/5191g4lv0OL._SY355_.jpg",
+        "price": 350
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Rubic's cube",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07rbj9f5t-dytesa-4x4-square-shape-magic-cube-kids-educational-puzzle-toys-170065684-30l8c.jpg",
+        "price": 300
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Arglege 3D",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/5191g4lv0OL._SY355_.jpg",
+        "price": 350
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Arglege 3D",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/5191g4lv0OL._SY355_.jpg",
+        "price": 350
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Square toy",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://4.imimg.com/data4/TM/OF/MY-12480829/reassemble-square-toy-500x500.jpg",
+        "price": 400
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Toy microscope",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/0mslb7RQiin_skyMKZJsgSGIJY8/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/03/807/n/24155406/45a74e00a56e1af2_netimgPRsi6g/i/Educational-Insights-GeoSafari-Jr-My-First-Microscope-STEM-Toy-For-Preschoolers.jpg",
+        "price": 450
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Toy microscope",
+        "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum libero quis felis faucibus porta. Cras accumsan vel justo id bibendum. Morbi blandit aliquet dignissim. Nulla feugiat porta semper. Fusce vitae aliquam lorem. Morbi ultrices, tellus et cursus malesuada, risus ex ullamcorper turpis, et ",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/0mslb7RQiin_skyMKZJsgSGIJY8/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/03/807/n/24155406/45a74e00a56e1af2_netimgPRsi6g/i/Educational-Insights-GeoSafari-Jr-My-First-Microscope-STEM-Toy-For-Preschoolers.jpg",
+        "price": 450
+      },
+      "id": 15
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
