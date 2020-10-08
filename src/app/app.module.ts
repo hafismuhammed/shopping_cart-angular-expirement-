@@ -13,7 +13,9 @@ import { ProductListComponent } from './component/shoping-cart/product-list/prod
 import { CartComponent } from './component/shoping-cart/cart/cart.component';
 import { CartItemComponent } from './component/shoping-cart/cart/cart-item/cart-item.component';
 import { ProductsComponent } from './component/shoping-cart/product-list/products/products.component';
-import { from } from 'rxjs';
+import { RegisterComponent } from './component/register/register.component';
+import { LoginComponent } from './component/login/login.component';
+import { PageNotFountComponent } from './component/shared/page-not-fount/page-not-fount.component';
 
 
 @NgModule({
@@ -28,12 +30,16 @@ import { from } from 'rxjs';
     CartComponent,
     CartItemComponent,
     ProductsComponent,
+    RegisterComponent,
+    LoginComponent,
+    PageNotFountComponent,
     
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
