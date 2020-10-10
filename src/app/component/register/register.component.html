@@ -1,6 +1,47 @@
-<p>
-  register works!
-</p>
-<p>
-  <a [routerLink]="['/login']">Login</a>
-</p>
+<div class="row">
+  <div class="col-md-4 offset-md-4">
+    <h4 class="text-center">Rigister Here</h4><hr>
+    <form [formGroup]="registrationForm" (ngSubmit)="register()">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" [class.is-invalid]="name.invalid && name.touched" formControlName="name" class="form-control">
+        <div *ngIf="name.invalid && name.touched">
+          <small *ngIf="name.errors?.required" class="text-danger">Name is required</small>
+          <small *ngIf="name.errors?.minlength" class="text-danger">Name must be at least 3 charecter</small>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" [class.is-invalid]="email.invalid && email.touched" formControlName="email" class="form-control">
+        <div *ngIf="email.invalid && email.touched">
+          <small *ngIf="email.errors?.required" class="text-danger">Email is required</small>
+          <small *ngIf="email.errors?.email" class="text-danger">email include @ symbol</small>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" [class.is-invalid]="userName.invalid && userName.touched" formControlName="userName" class="form-control">
+        <div *ngIf="userName.invalid && userName.touched">
+          <small *ngIf="userName.errors?.required" class="text-danger">Username is required</small>
+          <small *ngIf="userName.errors?.minlength" class="text-danger">Username must be at least 3 charecter</small>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" [class.is-invalid]="password.invalid && password.touched" formControlName="password" class="form-control">
+        <small [class.d-none]="password.valid || password.untouched" class="text-danger">Password is required</small>
+      </div>
+
+      <div class="form-group">
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" [class.is-invalid]="registrationForm.errors?.misMatch" formControlName="confirmPassword" class="form-control">
+        <small *ngIf="registrationForm.errors?.misMatch" class="text-danger">Password do not match</small>
+      </div>
+
+      <button type="submit" [disabled]="registrationForm.invalid" class="btn btn-primary btn-block">Register</button>
+    </form>
+  </div>
+</div>

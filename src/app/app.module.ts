@@ -16,6 +16,7 @@ import { ProductsComponent } from './component/shoping-cart/product-list/product
 import { RegisterComponent } from './component/register/register.component';
 import { LoginComponent } from './component/login/login.component';
 import { PageNotFountComponent } from './component/shared/page-not-fount/page-not-fount.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -39,7 +40,9 @@ import { PageNotFountComponent } from './component/shared/page-not-fount/page-no
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
